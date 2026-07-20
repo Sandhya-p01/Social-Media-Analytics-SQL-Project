@@ -390,29 +390,34 @@ ORDER BY month;
 
 ## Total Users Analysis
 
-![Total Users](screenshots/Total%20Users.png)
+![Total Users](screenshots/Total_Users.png)
 
+---
 
 ## Top Creators by Views
 
-![Top Creators by Views](screenshots/Top%20Creators%20by%20Views.png)
+![Top Creators by Views](screenshots/Top_Creators_by_Views.png)
 
+---
 
 ## Top 3 Creators Analysis
 
-![Top 3 Creators](screenshots/Top%203%20Creators.png)
+![Top 3 Creators](screenshots/Top_3_Creators.png)
 
+---
 
 ## Content Type Performance
 
-![Content Performance](screenshots/Content%20Type%20Performance.png)
+![Content Type Performance](screenshots/Content_Type_Performance.png)
 
+---
 
 ## Engagement Rate Analysis
 
-![Engagement Rate](screenshots/Engagement%20Rate.png)
+![Engagement Rate](screenshots/Engagement_Rate.png)
 
+---
 
-## Post Ranking Analysis
+## Rank Posts by Views
 
-![Rank Posts by Views](screenshots/Rank%20Posts%20by%20Views.png)
+![Rank Posts by Views](screenshots/Rank_Posts_by_Views.png)
