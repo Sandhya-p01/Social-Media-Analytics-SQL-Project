@@ -420,4 +420,4 @@ ORDER BY month;
 
 ## Rank Posts by Views
 
-![Rank Posts by Views](screenshots/Rank_Posts_by_Views.png)
+![Rank Posts by Views](Screenshots/Rank_Posts_by_Views.png)
